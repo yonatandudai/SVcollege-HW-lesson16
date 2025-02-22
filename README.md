@@ -1,5 +1,4 @@
-**Smart House**
-
+## Smart House
 תרגיל : בניית בית חכם  
 מערכת בית חכם הינה אפליקציה אשר מנוהלת ע"י טלפון המשתמש ומאפשרת לו לשלוט במכשירים הקיימים בבית. בנוסף מערכת זו תאפשר למשתמש להוסיף חדרים לבית + להוסיף מכשירים לכל חדר.
 
@@ -17,7 +16,8 @@
 
 מסך הבית
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8BAwAIvgLf3C5x0AAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8/AwAI/AL+GwXmLwAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8uAwAIuALceF8VrQAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8eAwAIugLdpL9UBwAAAABJRU5ErkJggg==)
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/94fbac2e-6aff-4731-89ca-74e1fb73adc3" />
+
 
 מסך הבית הינו המסך הראשי של האפליקציה.  
 מסך זה כולל כותרת smart house וכפתור +.  
@@ -26,13 +26,7 @@
 
 חלון הוספת החדרים יראה באופן הבא  
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8DAwAI3gLvJb+bdQAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8lAwAI0ALoHSgvegAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8bAwAI6gL1r4796gAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//82AwAItALazBebVQAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8GAwAIrgLXC3RkHAAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//83AwAI9AL6IZQ96QAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8zAwAI5ALyxyYyuAAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8+AwAIvALe9oZAkwAAAABJRU5ErkJggg==)
-
-בחר חדר חדש
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8xAwAIxALidUN1FQAAAABJRU5ErkJggg==)
-
-**צור**
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/59d6335f-07f9-4ccb-8e24-b6f6bf1b2a07" />
 
 חלון הוספת חדרים יהיה בערוץ חדש בשם /addroom.  
 לעמוד זה יש כותרת קבועה של smart house  
@@ -47,14 +41,16 @@
 
 מסך הבית לאחר יצירה של כמה חדרים
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8FAwAIzgLnVJKFDQAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8fAwAI+gL9STzyuwAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8KAwAIpgLTxaqbyQAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//89AwAI3ALuqWChggAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8rAwAI6AL0c268QAAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8VAwAI0gLpwchu0AAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8TAwAI4gLxlR8mLAAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8LAwAI5gLzKCk9dQAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8RAwAIwgLhJ3phgQAAAABJRU5ErkJggg==)
+<img width="341" alt="image" src="https://github.com/user-attachments/assets/8807a4d1-5f76-4982-acd7-0e399a356909" />
+
 
 בדוגמא זו ניתן לראות את מסך הבית עם 3 ריבועים בצבעים שונים.  
 כל ריבוע מציין חדר שנוסף ע"י המשתמש.  
 האות בפנים מציינת את שם החדר שניתן לו. וצבע הרקע מתאר את הצבע שניתן לו.  
 בעת לחיצה על כל אחד מהריבועים יפתח החלון הבא –
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//85AwAIzALmT9Ku0wAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8vAwAI+AL8ldyzEQAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8NAwAI1gLrfP51iQAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//86AwAIrALWEDRPwgAAAABJRU5ErkJggg==)
+<img width="453" alt="image" src="https://github.com/user-attachments/assets/27824e3d-951a-4435-8b75-9e450bb2867d" />
+
 
 שם החדר: A  
 סוג החדר: אמבטיה
@@ -75,9 +71,7 @@
 כפתור "הוסף מוצר" יפתח באותו עמוד אזור נוסף אשר יאפשר הוספה של מוצרים חדשים.  
 המשך העמוד יראה כך:
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//81AwAI1ALqk/F6RAAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8qAwAIqALUnu0a/AAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8hAwAIwALg+5ogKwAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8JAwAIxgLjmkx62AAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8nAwAI8AL4r01o1wAAAABJRU5ErkJggg==)
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8yAwAIpALSKqWUBAAAAABJRU5ErkJggg==)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/ed682217-a1ce-48fb-bc3a-2263de12829c" />
 
 \*אזור זה יהיה באותו עמוד של החדר עצמו ולא יעבור לעמוד חדש!  
 אזור זה בנוי מ2 אלמנטים  
@@ -91,22 +85,8 @@
 \*אין צורך לפרט את הבעיה בalert.  
 <br/>דוגמא לעמוד "חדר" לאחר הוספת מוצרים
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8dAwAI2gLt+1m1FgAAAABJRU5ErkJggg==)
+<img width="427" alt="image" src="https://github.com/user-attachments/assets/e41ed683-cc23-4702-9f5d-d0a95fc50c00" />
 
-Smart house
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8XAwAI8gL5c60pfQAAAABJRU5ErkJggg==)
-
-מנורה
-
-מנורה
-
-שם החדר: A  
-סוג החדר: אמבטיה
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8pAwAIyALkwQv77QAAAABJRU5ErkJggg==)
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8ZAwAIygLlHeu6RwAAAABJRU5ErkJggg==)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4XmP4//8jAwAI4ALwSf9nhgAAAABJRU5ErkJggg==)
 
 בדוגמא זו ניתן לראות את עמוד חדר לאחר הוספה של 3 מוצרים.  
 2 מנורות ומערכת סטריאו.  
