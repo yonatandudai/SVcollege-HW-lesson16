@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 export default function Room() {
     const { roomNameRoom } = useParams(); //This is now "roomA", "roomeli", etc.
-    // ✅ Remove "room" from the end of the string to get the actual room name
+    // Remove "room" from the end of the string to get the actual room name
     const roomName = roomNameRoom.replace("room", "");
     const { rooms, updateRoom } = useContext(SmartHouseContext);
     const room = rooms.find((r) => r.name === roomName);
